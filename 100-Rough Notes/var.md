@@ -16,7 +16,7 @@ status:
 ```js
 var x = 10;
 var x = 20; //re-declaration allowed
-x = 30; //update allowed
+x = 30; //reassigning is allowed
 console.log(x); // o/p : 30
 
 let y = 10;

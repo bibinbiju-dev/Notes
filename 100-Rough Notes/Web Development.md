@@ -6,3 +6,9 @@ tags:
 ---
 
 [[javascript]]
+[[Local-Storage]]
+[[Session-Storage]]
+[[JSON-serialization]]
+[[JSON-deserialization]]
+[[Object-Method]]
+[[Cookies]]
