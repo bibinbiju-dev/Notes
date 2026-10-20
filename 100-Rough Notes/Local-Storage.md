@@ -17,7 +17,7 @@ The **localstorage** read-only property of the window interface allows you to ac
 > usage :
 >
 > 1. only use local storage when storing insensitive information.
-> 2. thrid party individuals can easily access the information.
+> 2. third party individuals can easily access the information.
 > 3. local storage can be helpful in storing temporary data before it is pushed to the sever.
 > 4. it's important to clear the local storage once this operation is completed.
 

@@ -20,7 +20,7 @@ we use `const` key word in-order to declare a constant ==unchanging== variable. 
 - it must be initialized, unlike let a const variable must be initialized at the time of declaration.
 - the main use of const variable is that we can make safer functions. ie it ensures that the function reference cannot be reassigned.
 
-- [[hosting]] --> variables declared with const are hoisted to the top of their block but cannot be accessed until they are initialized, resulting in a **temporal dead zone** just like let variable.
+- [[Hoisting]] --> variables declared with const are hoisted to the top of their block but cannot be accessed until they are initialized, resulting in a **temporal dead zone** just like let variable.
 
 ```js
 const pi = 3.14; // both redeclaration and reassignment of variable  is not allowed

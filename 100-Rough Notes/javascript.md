@@ -6,3 +6,4 @@ tags:
 ---
 
 [[variables]]
+[[Data-types|data-types]]
