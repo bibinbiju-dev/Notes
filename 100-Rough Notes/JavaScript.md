@@ -1,0 +1,7 @@
+---
+id:
+aliases:
+tags:
+---
+
+# JavaScript
