@@ -1,12 +1,9 @@
 ---
 id: daily
-aliases: []
 tags:
   - daily-notes
-created:
+created : {{date}} {{time}}
 ---
-
-
 
 ## Task
 
@@ -14,8 +11,6 @@ created:
 - [ ]
 - [ ]
 
-
 ## Review
 
 ---
-

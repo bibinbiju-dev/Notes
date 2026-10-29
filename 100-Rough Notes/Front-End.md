@@ -17,4 +17,4 @@ Front-End development focuses on creating the visual elements and interactive fe
 
 ### Front-End Work-Flow
 
-![Front-End Work-Flow](../400-Canvas/Front-Wrok-Flow.png)
+![[Front-Wrok-Flow.canvas]]

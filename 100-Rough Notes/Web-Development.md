@@ -34,3 +34,7 @@ Back-End development focuses on server-side technologies that process requests, 
 A database stores and manages websites data, such as user information,products, and transactions.
 [[Data-Base]]
 [[Data-Management-System]]
+
+## Reference
+
+[web-development](https://www.geeksforgeeks.org/web-tech/web-technology/)
