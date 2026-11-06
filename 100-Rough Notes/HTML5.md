@@ -8,18 +8,18 @@ tags:
 
 # HTML5
 
-HTML5 is the fifth version of HyperText Markup Language, a standard language used to structure webpages. it defines how content on a webpage should be structure and displayed.
+HTML5 is the fifth version of HyperText Markup Language, a standard language used to structure webpages. It defines how content on a webpage should be structure and displayed.
 
 ![html4 vs html5](../700-img/html4vshtml5.png)
 
 ## Features of HTML5
 
-- it included semantic elements that clearly describes their meaning in a web page's structure. semantic elements convey specific information about the content they enclose. this helps both browsers and developers understand the role of different parts of a web page,leading to better-organized and more meaningful HTML documents.
-  - it can improve seo
+- it included semantic elements that clearly describes their meaning in a web page's structure. Semantic elements convey specific information about the content they enclose. This helps both browsers and developers understand the role of different parts of a web page,leading to better-organized and more meaningful HTML documents.
+  - it can improve SEO
   - enhanced accessibility
   - better code readability
 
-  _example_
+_example_
 
 ```html
 <header></header>
@@ -27,7 +27,7 @@ HTML5 is the fifth version of HyperText Markup Language, a standard language use
 <nav></nav>
 ```
 
-- Forms and inputs types. it introduced several new input types that significantly enhance the functionality and user experience of forms.
+- Forms and inputs types. It introduced several new input types that significantly enhance the functionality and user experience of forms.
   - email: Validates that the entered values is a valid email address
   - date: provides a date picker,allowing users to select dates easily.
   - range: creates a slider for selecting a value within a specified range.
@@ -55,7 +55,7 @@ HTML5 is the fifth version of HyperText Markup Language, a standard language use
 - Canvas and SVG
   - the canvas element in HTML5 provides a versatile way to draw graphics on a web page using js.
 
-there are many more elements in html5 than i have mentioned here
+There are many more elements in html5 than i have mentioned here
 
 ## Reference
 
