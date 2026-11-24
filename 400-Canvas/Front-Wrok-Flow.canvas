@@ -1,0 +1,34 @@
+{
+	"nodes":[
+		{"id":"4d08619db0f1f957","x":-800,"y":-1020,"width":1020,"height":1320,"type":"group","label":"Front End"},
+		{"id":"85034e8abfb8b425","type":"text","text":"   HTML","x":-339,"y":-635,"width":125,"height":50},
+		{"id":"5a2aa40830379e7f","type":"text","text":"Working of internet","x":-376,"y":-920,"width":200,"height":50},
+		{"id":"92669a06816b56bf","x":-80,"y":-870,"width":184,"height":194,"type":"text","text":"HTML Basics\nForms \nsemantic tags\naccessibility tags\nmeta tag\n"},
+		{"id":"36e82305ddcac9d9","type":"text","text":"Networks\nHTTP\nDNS\nHosting\nBrowsers\n","x":-680,"y":-785,"width":120,"height":175},
+		{"id":"8ab020b47625e9f9","x":-347,"y":-460,"width":143,"height":50,"type":"text","text":"   CSS"},
+		{"id":"c100dc68eb2f7fa4","x":-359,"y":-100,"width":167,"height":50,"type":"text","text":"Javascript"},
+		{"id":"f28b7cedde809dd4","x":-369,"y":-275,"width":187,"height":57,"type":"text","text":"version control system"},
+		{"id":"61d18cde56235620","x":-730,"y":-408,"width":170,"height":190,"type":"text","text":"CSS\nBox Model\nLayouts\nCss Display\nResponsive Design "},
+		{"id":"832311fd7a4ecdd0","x":-80,"y":-408,"width":184,"height":133,"type":"text","text":"CSS Frameworks\nBootstrap \nTailwind css"},
+		{"id":"2945c311f7a8382f","x":-57,"y":-106,"width":161,"height":206,"type":"text","text":"JS Framework Libraries\nReact \nNEXT.js\nAngular \nvue\njQuery"},
+		{"id":"37ab67bbb494930b","x":-83,"y":-236,"width":151,"height":96,"type":"text","text":"VSC Tool\nGit\nGithub"},
+		{"id":"ae761b56cc790214","x":-729,"y":-75,"width":169,"height":215,"type":"text","text":"JS Concepts\nFunctions\nVariables\nEvents\nObjects\nDOM\nArray\n"}
+	],
+	"edges":[
+		{"id":"e94075dd80aba66b","fromNode":"5a2aa40830379e7f","fromSide":"left","toNode":"36e82305ddcac9d9","toSide":"right","color":"4"},
+		{"id":"3b42864d2e5aa4e0","fromNode":"5a2aa40830379e7f","fromSide":"bottom","toNode":"85034e8abfb8b425","toSide":"top","color":"6"},
+		{"id":"b670665a71a80772","fromNode":"85034e8abfb8b425","fromSide":"right","toNode":"92669a06816b56bf","toSide":"left","color":"4"},
+		{"id":"4b59076ea3477a50","fromNode":"85034e8abfb8b425","fromSide":"bottom","toNode":"8ab020b47625e9f9","toSide":"top","color":"6"},
+		{"id":"19feeb35796d7a9d","fromNode":"8ab020b47625e9f9","fromSide":"right","toNode":"832311fd7a4ecdd0","toSide":"left","color":"4"},
+		{"id":"2a8e1872c7ff87fa","fromNode":"8ab020b47625e9f9","fromSide":"left","toNode":"61d18cde56235620","toSide":"right","color":"4"},
+		{"id":"2e618693f8341f27","fromNode":"8ab020b47625e9f9","fromSide":"bottom","toNode":"f28b7cedde809dd4","toSide":"top","color":"6"},
+		{"id":"b5b953b1620dd64e","fromNode":"f28b7cedde809dd4","fromSide":"bottom","toNode":"c100dc68eb2f7fa4","toSide":"top","color":"6"},
+		{"id":"5bd6bba9e279a733","fromNode":"c100dc68eb2f7fa4","fromSide":"right","toNode":"2945c311f7a8382f","toSide":"left","color":"4"},
+		{"id":"2e87fd7f3229ae28","fromNode":"f28b7cedde809dd4","fromSide":"right","toNode":"37ab67bbb494930b","toSide":"left","color":"4"},
+		{"id":"c8f683e5c2c4f7b6","fromNode":"c100dc68eb2f7fa4","fromSide":"left","toNode":"ae761b56cc790214","toSide":"right","color":"4"}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
